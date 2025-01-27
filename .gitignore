@@ -1,0 +1,12 @@
+## ipynb files
+**/.ipynb_checkpoints/
+**/*.ipynb
+
+## data files
+.DS_Store
+**/ny_taxi_postgres_data/
+**/*.csv
+**/*.csv.gz
+
+## notes
+**/*.txt
