@@ -8,5 +8,11 @@
 **/*.csv
 **/*.csv.gz
 
+## terraform files
+*.json
+**/.terraform/
+**/*.hcl
+**/*.tfstate*
+
 ## notes
 **/*.txt
