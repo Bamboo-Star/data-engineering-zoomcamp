@@ -1,6 +1,6 @@
 variable "credentials" {
   description = "My Credentials"
-  default     = "./my-creds.json"
+  default     = "/Users/xiaozhuxin/.google/credentials/google_credentials.json"
 }
 
 variable "project" {
@@ -20,7 +20,7 @@ variable "location" {
 
 variable "bq_dataset_name" {
   description = "My BigQuery Dataset Name"
-  default     = "demo_dataset"
+  default     = "ny_taxi"
 }
 
 variable "gcs_bucket_name" {

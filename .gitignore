@@ -7,12 +7,13 @@
 **/ny_taxi_postgres_data/
 **/*.csv
 **/*.csv.gz
+**/__pycache__
+**/logs
 
 ## terraform files
-*.json
 **/.terraform/
 **/*.hcl
 **/*.tfstate*
 
 ## notes
-**/*.txt
+**/docker_setup.txt
