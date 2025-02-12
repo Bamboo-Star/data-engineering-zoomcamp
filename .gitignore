@@ -5,10 +5,11 @@
 ## data files
 .DS_Store
 **/ny_taxi_postgres_data/
-**/*.csv
-**/*.csv.gz
 **/__pycache__
 **/logs
+**/*.csv
+**/*.csv.gz
+**/*.parquet
 
 ## terraform files
 **/.terraform/
@@ -17,3 +18,4 @@
 
 ## notes
 **/docker_setup.txt
+**/*.pptx
