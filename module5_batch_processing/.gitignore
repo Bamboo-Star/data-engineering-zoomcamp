@@ -1,0 +1,5 @@
+## ipynb files
+!*.ipynb
+
+## data files
+*/
